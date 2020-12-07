@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ZedLol.iml" filepath="$PROJECT_DIR$/.idea/ZedLol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZedLol.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZedLol.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1316406939/ZedLol.flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-1316406939/ZedLol.flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-615010728/ZedLol.fluzedlol.iml" filepath="$PROJECT_DIR$/.idea/modules/-615010728/ZedLol.fluzedlol.iml" />
     </modules>
   </component>
 </project>
